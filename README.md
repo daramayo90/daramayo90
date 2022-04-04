@@ -1,9 +1,6 @@
 ### Hi there, I'm Damián Aramayo 👋
 
-
-**daramayo90/daramayo90** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+##ABOUT
 
 Solid front-end knowledge of React, ES6+, HTML5, CSS3+, Redux, TypeScript, Webpack.
 Mobile front-end expertise building PWAs
@@ -15,6 +12,7 @@ Node.JS, Express.JS, EJS, SQL, noSQL, APIs
 Possitive attitude, strong work ethic, a drive for results while focusing on high code quality and performance.
 
 ## SOFT SKILLS
+
 Ability to lead complex or multiple projects.
 Excellent communication and interpersonal skills.
 Exceptional organizational skills and attention to detail.
