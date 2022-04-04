@@ -1,6 +1,6 @@
 ### Hi there, I'm Damián Aramayo 👋
 
-##ABOUT
+## ABOUT
 
 Solid front-end knowledge of React, ES6+, HTML5, CSS3+, Redux, TypeScript, Webpack.
 Mobile front-end expertise building PWAs
